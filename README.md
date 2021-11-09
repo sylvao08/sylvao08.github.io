@@ -1,8 +1,9 @@
-## Welcome to Shangyun's Home Pages
+## Shangyun Lu
 
-You can use the [editor on GitHub](https://github.com/sylvao08/sylvao08.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my website! You will find all the information about me including the projects I have done.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[LinkedIn](https://www.linkedin.com/in/shangyun-lu)
+
 
 ### Introduction
 
