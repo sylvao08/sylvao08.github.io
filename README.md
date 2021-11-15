@@ -1,38 +1,31 @@
-## Shangyun Lu
-
-Welcome to my website! You will find all the information about me including the projects I have done.
-
-[LinkedIn](https://www.linkedin.com/in/shangyun-lu)
+Future Imperfect by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-### Introduction
+It's been a long time coming, but I've finally gotten around to creating a brand new
+blog-style template (and the first since Striped, which came out waaaaay back in 2013).
+Anyway, Future Imperfect features a clean, expansive layout, a toggleable search box,
+and -- because pretty much all modern browsers can use it now -- a whole lot of flexbox
+action. Enjoy it :)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-```markdown
-Syntax highlighted code block
+(* = not included)
 
-# Header 1
-## Header 2
-### Header 3
+AJ
+aj@lkn.io | @ajlkn
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Credits:
 
-**Bold** and _Italic_ and `Code` text
+	Demo Images:
+		Unsplash (unsplash.com)
 
-[Link](url) and ![Image](src)
-```
+	Icons:
+		Font Awesome (fontawesome.io)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sylvao08/sylvao08.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
