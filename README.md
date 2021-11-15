@@ -19,11 +19,10 @@ aj@lkn.io | @ajlkn
 
 
 Credits:
-
-  Site Template:
-    Future Imperfect by HTML5 UP(https://html5up.net/future-imperfect)
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Site Template:
+		Future Imperfect by HTML5 UP(https://html5up.net/future-imperfect)
+		html5up.net | @ajlkn
+		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 	Demo Images:
 		Unsplash (unsplash.com)
